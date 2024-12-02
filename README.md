@@ -1,5 +1,5 @@
 📚 Student Management System
-The JIRA (Project / Modelisation diagrams / Sprints) FOR MEMBERS 🔒: Jira Board Link
+The JIRA (Project / Modelisation diagrams / Sprints) FOR MEMBERS 🔒: [Jira Board Link](https://ataouil90.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiYWFhMzM1NWExYzZiNDBiMThhZTk4NTYyYjkwNzg4YjYiLCJwIjoiaiJ9)
 
 A full-stack web application designed to manage student and instructor data, courses, and grades. The system allows administrators, instructors, and students to manage and track progress, assignments, and notes.
 
